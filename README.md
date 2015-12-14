@@ -1,3 +1,5 @@
+![Paradox](https://upload.wikimedia.org/wikipedia/en/e/e8/Escher_Waterfall.jpg)
+
 This repository contains implementations of dialog games for argumentation frameworks (AFs) and 
 for two extensions of AFs that I developed during my PhD (abductive argumentation frameworks and property-based argumentation frameworks).
 
