@@ -4,8 +4,9 @@ for two extensions of AFs that I developed during my PhD (abductive argumentatio
 Dialog games are proof theories in which a proof is represented by a dialogue between a 
 proponent (trying to prove a claim) and opponent (challenging the proponent's claims). A dialog 
     won by the proponent represents a proof of the initial claim.
-The procedures are all implemented using Prolog DCGs (definite clause grammars),
-  simply by defining the structure of a dialog that is won by the proponent as if it is a grammar.
+The implementations I offer here are done in Prolog and rely heavily on DCGs (definite clause grammars).
+In short, the procedures are implemented by defining 
+    the structure of a dialog that is won by the proponent as if it is a grammar.
 This turned out to be a very clean way to implement this type of procedure.
 
 The file [dialog_games.pl](https://github.com/tjitze/dialog_games/blob/master/dialog_games.pl) 
