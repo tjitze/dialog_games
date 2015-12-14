@@ -1,5 +1,5 @@
 This repository contains implementations of dialog games for argumentation frameworks (AFs) and 
-for two extensions of AFs that I developed during my PhD (abductive argumentation frameworks and property-based argumentation frameworks) .
+for two extensions of AFs that I developed during my PhD (abductive argumentation frameworks and property-based argumentation frameworks).
 
 Dialog games are proof theories in which a proof is represented by a dialogue between a 
 proponent (trying to prove a claim) and opponent (challenging the proponent's claims). A dialog 
