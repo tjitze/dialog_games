@@ -21,4 +21,6 @@ contains a procedure described in the paper ["Abduction in Argumentation: Dialog
 The file [property_based_preferences.pl](https://github.com/tjitze/dialog_games/blob/master/property_based_preferences.pl) 
 contains a procedure described in the paper [“Property-based Preferences in Abstract Argumentation“](https://github.com/tjitze/dialog_games/blob/master/property_based_preferences.pdf) (Booth, Kaci, Rienstra, ADT2013).
 
+*Author: Tjitze Rienstra*
+
 
