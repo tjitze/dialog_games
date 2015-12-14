@@ -32,7 +32,7 @@
 %% prp(e, [bb, gg]) :- !. prp(X, []) :- arg(X).
 %% ms([rr]). ms([gg]). ms([bb]). ms([rr, gg]). ms([rr, bb]). 
 %% ms([gg, bb]). ms([rr, gg, bb]). ms([]).
-weight(rr, 1). weight(gg, 1). weight(bb, -2).
+%% weight(rr, 1). weight(gg, 1). weight(bb, -2).
 %%
 %% The goal “abduct(b, X, Y, []).” yields, as one two of its answers:
 %% X = [[opp, b, a], [pro, c, b], [opp, b, c], [prop_def, [rr]], [opp, ok], [opp, d, a], 
