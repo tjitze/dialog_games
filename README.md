@@ -9,7 +9,7 @@ The procedures are all implemented using Prolog DCGs (definite clause grammars),
 This turned out to be a very clean way to implement this type of procedure.
 
 The file [dialog_games.pl](https://github.com/tjitze/dialog_games/blob/master/dialog_games.pl) 
-contains an implementation of the so called grounded and preferred games.
+contains an implementation of the so called skeptical and credulous games (also called grounded and preferred games).
 References to the theoretical background can be found inside.
 
 The file [abductive_dialog_games.pl](https://github.com/tjitze/dialog_games/blob/master/abductive_dialog_games.pl) 
