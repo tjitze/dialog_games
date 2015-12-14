@@ -13,9 +13,9 @@ contains an implementation of the so called skeptical and credulous games (also 
 References to the theoretical background can be found inside.
 
 The file [abductive_dialog_games.pl](https://github.com/tjitze/dialog_games/blob/master/abductive_dialog_games.pl) 
-contains a procedure described in the paper ["Abduction in Argumentation: Dialogical Proof Procedures and Instantiation"](https://github.com/tjitze/dialog_games/blob/master/abductive_dialog_games.pdf)(Booth, Gabbay, Kaci, Rienstra, van der Torre. NMR2014).
+contains a procedure described in the paper ["Abduction in Argumentation: Dialogical Proof Procedures and Instantiation"](https://github.com/tjitze/dialog_games/blob/master/abductive_dialog_games.pdf) (Booth, Gabbay, Kaci, Rienstra, van der Torre. NMR2014).
 
 The file [property_based_preferences.pl](https://github.com/tjitze/dialog_games/blob/master/property_based_preferences.pl) 
-contains a procedure described in the paper [“Property-based Preferences in Abstract Argumentation“](https://github.com/tjitze/dialog_games/blob/master/property_based_preferences.pdf)(Booth, Gabbay, Kaci, Rienstra, van der Torre. NMR2014).
+contains a procedure described in the paper [“Property-based Preferences in Abstract Argumentation“](https://github.com/tjitze/dialog_games/blob/master/property_based_preferences.pdf) (Booth, Kaci, Rienstra, ADT2014).
 
 
