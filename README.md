@@ -1,11 +1,10 @@
-![Paradox](https://upload.wikimedia.org/wikipedia/en/e/e8/Escher_Waterfall.jpg)
-
-This repository contains implementations of dialog games for argumentation frameworks (AFs) and 
-for two extensions of AFs that I developed during my PhD (abductive argumentation frameworks and property-based argumentation frameworks).
+This repository contains implementations of dialog games for abstract argumentation frameworks and 
+for two extensions that I developed during my PhD, namely *abductive* argumentation frameworks and *property-based* argumentation frameworks.
 
 Dialog games are proof theories in which a proof is represented by a dialogue between a 
 proponent (trying to prove a claim) and opponent (challenging the proponent's claims). A dialog 
-    won by the proponent represents a proof of the initial claim.
+    won by the proponent represents a proof that the inital claim is acceptable.
+    
 The implementations I offer here are done in Prolog and rely heavily on DCGs (definite clause grammars).
 In short, the procedures are implemented by defining 
     the structure of a dialog that is won by the proponent as if it is a grammar.
